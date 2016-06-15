@@ -1,0 +1,2 @@
+# androidannotationsDemo
+androidannotations sample
